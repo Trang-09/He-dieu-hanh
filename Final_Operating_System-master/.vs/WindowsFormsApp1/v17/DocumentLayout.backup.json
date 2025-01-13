@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ngoth\\onedrive\\m\u00E1y t\u00EDnh\\final_operating_system-master\\windowsformsapp1\\resultform_roundrobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\resultform_roundrobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\windowsformsapp1\\resultform_sjf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\resultform_sjf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\ngoth\\onedrive\\m\u00E1y t\u00EDnh\\final_operating_system-master\\windowsformsapp1\\process_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\process_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\windowsformsapp1\\resultform_srtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\resultform_srtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\windowsformsapp1\\resultform_fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714D96DD-4140-4A3F-8D44-41F892691D5B}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\resultform_fcfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Process_Class.cs",
+              "DocumentMoniker": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\Process_Class.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Process_Class.cs",
+              "ToolTip": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\Process_Class.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Process_Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:27:43.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultForm_RoundRobin.cs",
+              "DocumentMoniker": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_RoundRobin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ResultForm_RoundRobin.cs",
+              "ToolTip": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_RoundRobin.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ResultForm_RoundRobin.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwIoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:21:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultForm_SJF.cs",
+              "DocumentMoniker": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_SJF.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ResultForm_SJF.cs",
+              "ToolTip": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_SJF.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ResultForm_SJF.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:09:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultForm_SRTN.cs",
+              "DocumentMoniker": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_SRTN.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ResultForm_SRTN.cs",
+              "ToolTip": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_SRTN.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ResultForm_SRTN.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:20:36.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultForm_FCFS.cs",
+              "DocumentMoniker": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "ToolTip": "C:\\Users\\ngoth\\OneDrive\\M\u00E1y t\u00EDnh\\Final_Operating_System-master\\WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ResultForm_FCFS.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwFIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:35:04.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

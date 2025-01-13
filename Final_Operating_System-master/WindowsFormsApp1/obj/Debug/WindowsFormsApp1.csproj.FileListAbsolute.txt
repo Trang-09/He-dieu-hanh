@@ -1,0 +1,28 @@
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_FCFS.resources
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_SJF.resources
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_SRTN.resources
+D:\He_dieu_hanh\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_RoundRobin.resources
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_FCFS.resources
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_RoundRobin.resources
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_SJF.resources
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ResultForm_SRTN.resources
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ngoth\OneDrive\Máy tính\Final_Operating_System-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
